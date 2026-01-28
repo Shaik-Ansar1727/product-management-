@@ -80,3 +80,10 @@ The application supports **searching, filtering, date-based filtering**, and **c
 ```bash
 npm install
 npm run dev
+
+---
+
+### Backend
+Open the backend project in your IDE
+Configure MySQL database in application.properties
+Run the Spring Boot application
