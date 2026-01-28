@@ -77,9 +77,12 @@ The application supports **searching, filtering, date-based filtering**, and **c
 ## ▶️ Run Instructions
 
 ### Frontend
+
 ```bash
 npm install
 npm run dev
+
+```
 
 ---
 
